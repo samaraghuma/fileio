@@ -1,0 +1,6 @@
+﻿john adams,100
+steve jobs,200
+bill gates,300
+raghu,10000
+raghu,10000
+q,10000
